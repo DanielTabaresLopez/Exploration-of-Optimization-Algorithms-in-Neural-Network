@@ -40,13 +40,13 @@ The training process aims to minimize the cross-entropy loss, and the performanc
    - Accuracy is computed after each iteration to track the network's performance.
 
 
-## **Results**:
+## **Results**
 During training, the code outputs:
 - The iteration number.
 - Accuracy on the test set after each iteration.
 
 
-## **Customization**:
+## **Customization**
 You can modify the following parameters in the script:
 
 - Network Architecture: Specify the desired number of layers and neurons in the Network class initialization.
